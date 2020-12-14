@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "my.server.port",
+      "type": "java.lang.String",
+      "description": "Description for my.server.port."
+    },
+    {
+      "name": "my.server.host",
+      "type": "java.lang.String",
+      "description": "Description for my.server.host."
+    }
+  ]
+}

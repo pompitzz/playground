@@ -1,0 +1,22 @@
+2020-12-07 00:29:09.357  INFO 5050 --- [main] m.s.j.JavaSpringConfigurationApplication : Starting JavaSpringConfigurationApplication using Java 11.0.7 on Dongmyeongui-MacBookPro.local with PID 5050 (/Users/dongmyeonglee/Projects/playground/java_spring_configuration/build/classes/java/main started by dongmyeonglee in /Users/dongmyeonglee/Projects/playground)
+2020-12-07 00:29:09.360  INFO 5050 --- [main] m.s.j.JavaSpringConfigurationApplication : The following profiles are active: server4
+2020-12-07 00:29:09.896  INFO 5050 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8086 (http)
+2020-12-07 00:29:09.903  INFO 5050 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-07 00:29:09.903  INFO 5050 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-07 00:29:09.950  INFO 5050 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-07 00:29:09.951  INFO 5050 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 546 ms
+2020-12-07 00:29:10.077  INFO 5050 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-07 00:29:10.211  INFO 5050 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8086 (http) with context path ''
+2020-12-07 00:29:10.221  INFO 5050 --- [main] m.s.j.JavaSpringConfigurationApplication : Started JavaSpringConfigurationApplication in 1.218 seconds (JVM running for 1.972)
+2020-12-07 00:29:25.137  INFO 5050 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-12-07 00:29:26.530  INFO 5060 --- [main] m.s.j.JavaSpringConfigurationApplication : Starting JavaSpringConfigurationApplication using Java 11.0.7 on Dongmyeongui-MacBookPro.local with PID 5060 (/Users/dongmyeonglee/Projects/playground/java_spring_configuration/build/classes/java/main started by dongmyeonglee in /Users/dongmyeonglee/Projects/playground)
+2020-12-07 00:29:26.533  INFO 5060 --- [main] m.s.j.JavaSpringConfigurationApplication : The following profiles are active: server4
+2020-12-07 00:29:27.043  INFO 5060 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8086 (http)
+2020-12-07 00:29:27.050  INFO 5060 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-12-07 00:29:27.050  INFO 5060 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2020-12-07 00:29:27.094  INFO 5060 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-12-07 00:29:27.095  INFO 5060 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 527 ms
+2020-12-07 00:29:27.222  INFO 5060 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-12-07 00:29:27.348  INFO 5060 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8086 (http) with context path ''
+2020-12-07 00:29:27.358  INFO 5060 --- [main] m.s.j.JavaSpringConfigurationApplication : Started JavaSpringConfigurationApplication in 1.094 seconds (JVM running for 1.553)
+2020-12-07 03:41:09.584  INFO 5060 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'

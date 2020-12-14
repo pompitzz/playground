@@ -1,0 +1,39 @@
+my:
+  server:
+    host: localhost
+    port: 8081
+    name: me-server
+
+logging:
+  level:
+    root: INFO
+  file:
+    path: /Users/dongmyeonglee/Projects/playground/java_spring_configuration/src/main/resources/log/
+#    me:
+#      sun: DEBUG
+#    org:
+#      springframework: DEBUG
+---
+spring:
+  config:
+    activate:
+      on-profile: server1 | server2
+
+server:
+  port: 8085
+---
+spring:
+  config:
+    activate:
+      on-profile: server3 | server4
+
+server:
+  port: 8086
+---
+spring:
+  config:
+    activate:
+      on-profile: random
+
+server:
+  port: ${random.int(65555)}
