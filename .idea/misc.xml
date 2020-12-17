@@ -5,6 +5,7 @@
     <file type="web" url="file://$PROJECT_DIR$/java_pure" />
     <file type="web" url="file://$PROJECT_DIR$/java_spring_boot_docs_ex" />
     <file type="web" url="file://$PROJECT_DIR$/java_spring_configuration" />
+    <file type="web" url="file://$PROJECT_DIR$/java_spring_core" />
     <file type="web" url="file://$PROJECT_DIR$/java_spring_jpa" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="11" project-jdk-type="JavaSDK" />

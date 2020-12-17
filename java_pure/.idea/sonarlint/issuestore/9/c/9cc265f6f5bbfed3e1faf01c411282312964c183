@@ -1,6 +1,0 @@
-
-w
-java:S1450"WRemove the "lastData" field and declare it as a local variable in the relevant methods.(ÁÀØ¿üÿÿÿÿ8Ğ‘Ôß.
-m	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(·¢Ü„
-L
-java:S1068",Remove this unused "lastData" private field.(ÁÀØ¿üÿÿÿÿ8Ğ‘Ôß.
